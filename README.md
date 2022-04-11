@@ -13,7 +13,7 @@ make main
 For others who would rather execute serially,
 ```bash
 make st
-./main
+./st
 ```
 
 And to clean,
