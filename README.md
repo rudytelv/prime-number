@@ -22,7 +22,7 @@ make clean
 ```
 
 ## Footnotes
-* I didn't want to sit through twenty seconds of my computer calculating each prime number up to 2^24, so I decided 2^16 was a good halfway between 2^24 and 2^4.
+*I didn't want to sit through twenty seconds of my computer calculating each prime number up to 2^24, so I decided 2^16 was a good halfway between 2^24 and 2^4.
 
 ## Contributing
 Pull requests are always welcome! There's tons of fixes and additions I haven't made yet.
